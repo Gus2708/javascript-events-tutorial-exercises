@@ -5,10 +5,3 @@ window.onload = function myLoadFunction() {
 };
 
 // The listener function here
-
- const greenButton = document.getElementById("theGreen");
-
- greenButton.onclick = function () {
-	alert("Woohoo!")
- };
-
